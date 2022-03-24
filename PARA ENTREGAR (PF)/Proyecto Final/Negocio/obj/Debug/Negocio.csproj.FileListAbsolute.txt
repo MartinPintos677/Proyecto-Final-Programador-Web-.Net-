@@ -1,0 +1,33 @@
+C:\Users\acer\source\repos\Proyecto Final\Negocio\bin\Debug\Negocio.dll
+C:\Users\acer\source\repos\Proyecto Final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\acer\source\repos\Proyecto Final\Negocio\bin\Debug\Entidades.dll
+C:\Users\acer\source\repos\Proyecto Final\Negocio\bin\Debug\Persistencia.dll
+C:\Users\acer\source\repos\Proyecto Final\Negocio\bin\Debug\Entidades.pdb
+C:\Users\acer\source\repos\Proyecto Final\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\acer\source\repos\Proyecto Final\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Proyecto Final\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Proyecto Final\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\acer\source\repos\Proyecto Final\Negocio\obj\Debug\Negocio.dll
+C:\Users\acer\source\repos\Proyecto Final\Negocio\obj\Debug\Negocio.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\bin\Debug\Negocio.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\bin\Debug\Entidades.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\bin\Debug\Persistencia.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\bin\Debug\Entidades.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\obj\Debug\Negocio.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Negocio\obj\Debug\Negocio.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\bin\Debug\Negocio.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\bin\Debug\Entidades.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\bin\Debug\Persistencia.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\bin\Debug\Entidades.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\obj\Debug\Negocio.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{3356FB6F-F3B8-46EC-A939-031B5E62219E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{9A848C5F-5EA6-4035-9D27-9E6949DEDF60}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PronosticosTiempo", "PronosticosTiempo\", "{877A1B4D-4D31-4280-97F6-BAF2A1D35BFB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{93d28243-80bc-4433-8d7a-c4e5ac31b200}|Entidades.dll;{9a848c5f-5ea6-4035-9d27-9e6949dedf60}|Negocio.dll;{3356FB6F-F3B8-46EC-A939-031B5E62219E}|Persistencia.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51746"
+		Debug.AspNetCompiler.PhysicalPath = "PronosticosTiempo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51746\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51746"
+		Release.AspNetCompiler.PhysicalPath = "PronosticosTiempo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51746\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51746"
+		SlnRelativePath = "PronosticosTiempo\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{93D28243-80BC-4433-8D7A-C4E5AC31B200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3356FB6F-F3B8-46EC-A939-031B5E62219E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3356FB6F-F3B8-46EC-A939-031B5E62219E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3356FB6F-F3B8-46EC-A939-031B5E62219E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3356FB6F-F3B8-46EC-A939-031B5E62219E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A848C5F-5EA6-4035-9D27-9E6949DEDF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A848C5F-5EA6-4035-9D27-9E6949DEDF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A848C5F-5EA6-4035-9D27-9E6949DEDF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A848C5F-5EA6-4035-9D27-9E6949DEDF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877A1B4D-4D31-4280-97F6-BAF2A1D35BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877A1B4D-4D31-4280-97F6-BAF2A1D35BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877A1B4D-4D31-4280-97F6-BAF2A1D35BFB}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{877A1B4D-4D31-4280-97F6-BAF2A1D35BFB}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{93D28243-80BC-4433-8D7A-C4E5AC31B200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D28243-80BC-4433-8D7A-C4E5AC31B200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D28243-80BC-4433-8D7A-C4E5AC31B200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D28243-80BC-4433-8D7A-C4E5AC31B200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59714855-5071-4A60-896F-79A20736A91A}
+	EndGlobalSection
+EndGlobal

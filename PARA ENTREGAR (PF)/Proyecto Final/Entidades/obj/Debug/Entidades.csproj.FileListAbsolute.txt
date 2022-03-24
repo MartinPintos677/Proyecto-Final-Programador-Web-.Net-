@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\Proyecto Final\Entidades\bin\Debug\Entidades.dll
+C:\Users\acer\source\repos\Proyecto Final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\acer\source\repos\Proyecto Final\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Proyecto Final\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Proyecto Final\Entidades\obj\Debug\Entidades.dll
+C:\Users\acer\source\repos\Proyecto Final\Entidades\obj\Debug\Entidades.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Entidades\bin\Debug\Entidades.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Entidades\obj\Debug\Entidades.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Entidades\obj\Debug\Entidades.pdb

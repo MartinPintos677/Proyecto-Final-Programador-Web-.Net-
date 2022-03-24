@@ -1,0 +1,27 @@
+C:\Users\acer\source\repos\Proyecto Final\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\acer\source\repos\Proyecto Final\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\acer\source\repos\Proyecto Final\Persistencia\bin\Debug\Entidades.dll
+C:\Users\acer\source\repos\Proyecto Final\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\acer\source\repos\Proyecto Final\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Proyecto Final\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Proyecto Final\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\acer\source\repos\Proyecto Final\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\acer\source\repos\Proyecto Final\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Persistencia\bin\Debug\Entidades.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Proyecto Final\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Persistencia\bin\Debug\Entidades.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\acer\Desktop\Visual Studio C#\BIOS 2021\Proyecto Final Web\Opcion 2 PF\Proyecto Final\Persistencia\obj\Debug\Persistencia.pdb
